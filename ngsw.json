@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1594827362583,
+  "timestamp": 1594828190328,
   "index": "/natural-tts/index.html",
   "assetGroups": [
     {
@@ -13,25 +13,13 @@
         "/natural-tts/favicon.ico",
         "/natural-tts/index.html",
         "/natural-tts/main-es2015.394cb26a89188185ed00.js",
-        "/natural-tts/main-es2015.js",
         "/natural-tts/main-es5.394cb26a89188185ed00.js",
-        "/natural-tts/main-es5.js",
         "/natural-tts/manifest.webmanifest",
         "/natural-tts/polyfills-es2015.ca64e4516afbb1b890d5.js",
-        "/natural-tts/polyfills-es2015.js",
         "/natural-tts/polyfills-es5.fb4cff7f451982eaa677.js",
-        "/natural-tts/polyfills-es5.js",
         "/natural-tts/runtime-es2015.53b397daceb1410d3b33.js",
-        "/natural-tts/runtime-es2015.js",
         "/natural-tts/runtime-es5.53b397daceb1410d3b33.js",
-        "/natural-tts/runtime-es5.js",
-        "/natural-tts/styles-es2015.js",
-        "/natural-tts/styles-es5.js",
-        "/natural-tts/styles.13cedbb8a151032e5f50.css",
-        "/natural-tts/tts-tts-module-es2015.js",
-        "/natural-tts/tts-tts-module-es5.js",
-        "/natural-tts/vendor-es2015.js",
-        "/natural-tts/vendor-es5.js"
+        "/natural-tts/styles.13cedbb8a151032e5f50.css"
       ],
       "patterns": []
     },
@@ -73,25 +61,13 @@
     "/natural-tts/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/natural-tts/index.html": "c7f20a167e379790b55a6b5bc3f6d20200908d75",
     "/natural-tts/main-es2015.394cb26a89188185ed00.js": "12d294e1c9f415ba42182d8f9f7be41b1c8a9694",
-    "/natural-tts/main-es2015.js": "88b4038c2c68749a91c27a9e068848684512efc8",
     "/natural-tts/main-es5.394cb26a89188185ed00.js": "98a45ae863a13c6e9b12c38deea779d08a6fda0d",
-    "/natural-tts/main-es5.js": "f0ce86a75d5bf2075a6c68dc3b51d88473a762f9",
     "/natural-tts/manifest.webmanifest": "72c881a5674f41140262ab771303ba77ab38b811",
     "/natural-tts/polyfills-es2015.ca64e4516afbb1b890d5.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
-    "/natural-tts/polyfills-es2015.js": "9bdb26623f41606e9abec2a84c1aa8c5767a4771",
     "/natural-tts/polyfills-es5.fb4cff7f451982eaa677.js": "d5158605c08abe16a3992ccf4604bf8d2a934964",
-    "/natural-tts/polyfills-es5.js": "2e015bc6f19a74ae7e14b9c7423103525ef86cea",
     "/natural-tts/runtime-es2015.53b397daceb1410d3b33.js": "b9e1df4336cbaf8152f1fb3aee32c202ef399d36",
-    "/natural-tts/runtime-es2015.js": "d36aa9771c6cdcb21c92b7490c13ec2fc1af11df",
     "/natural-tts/runtime-es5.53b397daceb1410d3b33.js": "edc842411b05dddb16a2bd7515cdc578b007a353",
-    "/natural-tts/runtime-es5.js": "562541575dfe47a16c0167bbb622e3c588e5be70",
-    "/natural-tts/styles-es2015.js": "25f2cb5a84f317d953f47289f45da58eeafb853b",
-    "/natural-tts/styles-es5.js": "61e63a96a0ac746a11b67fa89d12fd162b65bd31",
-    "/natural-tts/styles.13cedbb8a151032e5f50.css": "52a284b2d8e24edc28284af11a34be3b96e55fc7",
-    "/natural-tts/tts-tts-module-es2015.js": "d140ac50c99996842fdb348d4ee7759ffe2bebc2",
-    "/natural-tts/tts-tts-module-es5.js": "87df5c645f224c78d519f39d7d4f86f7a0b19948",
-    "/natural-tts/vendor-es2015.js": "f87041145b90b627970fd24a20a0ef90b61ab5df",
-    "/natural-tts/vendor-es5.js": "f861e28cfc91fdecd2747bc9005ee0a1e25b0c1c"
+    "/natural-tts/styles.13cedbb8a151032e5f50.css": "52a284b2d8e24edc28284af11a34be3b96e55fc7"
   },
   "navigationUrls": [
     {
