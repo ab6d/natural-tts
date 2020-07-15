@@ -109,8 +109,6 @@ Apache-2.0
 @firebase/util
 Apache-2.0
 
-api-key
-
 core-js
 MIT
 Copyright (c) 2014-2019 Denis Pushkarev
