@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1594832397772,
+  "timestamp": 1595012545793,
   "index": "/natural-tts/index.html",
   "assetGroups": [
     {
@@ -8,18 +8,18 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/natural-tts/5-es2015.d78351d6c1a177a26ad7.js",
-        "/natural-tts/5-es5.d78351d6c1a177a26ad7.js",
+        "/natural-tts/5-es2015.2944d072d54b8c1c005e.js",
+        "/natural-tts/5-es5.2944d072d54b8c1c005e.js",
         "/natural-tts/favicon.ico",
         "/natural-tts/index.html",
-        "/natural-tts/main-es2015.fef6180ee25ea37ce59e.js",
-        "/natural-tts/main-es5.fef6180ee25ea37ce59e.js",
+        "/natural-tts/main-es2015.2d1cb185bda586e84cd5.js",
+        "/natural-tts/main-es5.2d1cb185bda586e84cd5.js",
         "/natural-tts/manifest.webmanifest",
         "/natural-tts/polyfills-es2015.ca64e4516afbb1b890d5.js",
         "/natural-tts/polyfills-es5.fb4cff7f451982eaa677.js",
-        "/natural-tts/runtime-es2015.53b397daceb1410d3b33.js",
-        "/natural-tts/runtime-es5.53b397daceb1410d3b33.js",
-        "/natural-tts/styles.13cedbb8a151032e5f50.css"
+        "/natural-tts/runtime-es2015.9350a0c95a40622012ba.js",
+        "/natural-tts/runtime-es5.9350a0c95a40622012ba.js",
+        "/natural-tts/styles.a4d1b28c4cebac4c2152.css"
       ],
       "patterns": []
     },
@@ -45,8 +45,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/natural-tts/5-es2015.d78351d6c1a177a26ad7.js": "4883a6dbd045202a62ac14fd4f7016d8297aa90c",
-    "/natural-tts/5-es5.d78351d6c1a177a26ad7.js": "48eda99ed181b833805d3a52554da7fda19eca52",
+    "/natural-tts/5-es2015.2944d072d54b8c1c005e.js": "06b82874ae0cd08e63edf202f3a76e89a9bb19c3",
+    "/natural-tts/5-es5.2944d072d54b8c1c005e.js": "aaa59c72fbb88e43b9879395d41d4e7ad9aa1043",
     "/natural-tts/assets/default-user.svg": "b868292297268825d4236bd9c11b3e2635972806",
     "/natural-tts/assets/google-logo.svg": "4524589b0dceefb6ae6389f36634441df69152d5",
     "/natural-tts/assets/google-signin.png": "ff65be2c29b5262b7e182897910addad62c8644a",
@@ -59,15 +59,15 @@
     "/natural-tts/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/natural-tts/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/natural-tts/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/natural-tts/index.html": "ab3bc88f619330196ac5b3c103e45cc8474e24b0",
-    "/natural-tts/main-es2015.fef6180ee25ea37ce59e.js": "4e0b5264c68acbb407647c45627daaf5b5c741f2",
-    "/natural-tts/main-es5.fef6180ee25ea37ce59e.js": "fd61c91df7372def4a937fa28ee07a04d7efbef7",
+    "/natural-tts/index.html": "ca217d7415d7760cc813e8e4cd9aeea3ddb582a7",
+    "/natural-tts/main-es2015.2d1cb185bda586e84cd5.js": "9d839880a0f1f4cd0648042648a32fd37db79db3",
+    "/natural-tts/main-es5.2d1cb185bda586e84cd5.js": "5a3d7eb8f677a8a267d9861def454c83de217aa8",
     "/natural-tts/manifest.webmanifest": "72c881a5674f41140262ab771303ba77ab38b811",
     "/natural-tts/polyfills-es2015.ca64e4516afbb1b890d5.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
     "/natural-tts/polyfills-es5.fb4cff7f451982eaa677.js": "d5158605c08abe16a3992ccf4604bf8d2a934964",
-    "/natural-tts/runtime-es2015.53b397daceb1410d3b33.js": "b9e1df4336cbaf8152f1fb3aee32c202ef399d36",
-    "/natural-tts/runtime-es5.53b397daceb1410d3b33.js": "edc842411b05dddb16a2bd7515cdc578b007a353",
-    "/natural-tts/styles.13cedbb8a151032e5f50.css": "52a284b2d8e24edc28284af11a34be3b96e55fc7"
+    "/natural-tts/runtime-es2015.9350a0c95a40622012ba.js": "0fba2c092ec5bae0826e392d8378915447c2746d",
+    "/natural-tts/runtime-es5.9350a0c95a40622012ba.js": "87b870cd2b670634f475a8f007595955acc2ab6c",
+    "/natural-tts/styles.a4d1b28c4cebac4c2152.css": "a543a06af82dffcdb4321ebb53dc3b6030ff57c3"
   },
   "navigationUrls": [
     {
