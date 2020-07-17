@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1595016747881,
+  "timestamp": 1595017058945,
   "index": "/natural-tts/index.html",
   "assetGroups": [
     {
@@ -8,8 +8,8 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/natural-tts/5-es2015.d70128e9356708f72f1d.js",
-        "/natural-tts/5-es5.d70128e9356708f72f1d.js",
+        "/natural-tts/5-es2015.d57e0510d672d3d5730f.js",
+        "/natural-tts/5-es5.d57e0510d672d3d5730f.js",
         "/natural-tts/favicon.ico",
         "/natural-tts/index.html",
         "/natural-tts/main-es2015.c9cc0c2394d4ad5e8792.js",
@@ -17,8 +17,8 @@
         "/natural-tts/manifest.webmanifest",
         "/natural-tts/polyfills-es2015.ca64e4516afbb1b890d5.js",
         "/natural-tts/polyfills-es5.fb4cff7f451982eaa677.js",
-        "/natural-tts/runtime-es2015.991cadb82dfc1b857a7d.js",
-        "/natural-tts/runtime-es5.991cadb82dfc1b857a7d.js",
+        "/natural-tts/runtime-es2015.23d396609d6daea2e396.js",
+        "/natural-tts/runtime-es5.23d396609d6daea2e396.js",
         "/natural-tts/styles.13cedbb8a151032e5f50.css"
       ],
       "patterns": []
@@ -45,8 +45,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/natural-tts/5-es2015.d70128e9356708f72f1d.js": "043dfc5e0e18a6857c6349aeca40ae8c9519cbc9",
-    "/natural-tts/5-es5.d70128e9356708f72f1d.js": "e3467be9b4acbb356673074aa1f5efdfa2cbc83f",
+    "/natural-tts/5-es2015.d57e0510d672d3d5730f.js": "ef78183fe233dae5c11817d1b2c0e7bf336476a6",
+    "/natural-tts/5-es5.d57e0510d672d3d5730f.js": "9eb2619c3b794d8035988392c19559a500ac68ae",
     "/natural-tts/assets/default-user.svg": "b868292297268825d4236bd9c11b3e2635972806",
     "/natural-tts/assets/google-logo.svg": "4524589b0dceefb6ae6389f36634441df69152d5",
     "/natural-tts/assets/google-signin.png": "ff65be2c29b5262b7e182897910addad62c8644a",
@@ -59,14 +59,14 @@
     "/natural-tts/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/natural-tts/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/natural-tts/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/natural-tts/index.html": "9fbb1f5b4573ec93354d28e22daf2d9ba61f7500",
+    "/natural-tts/index.html": "4fb0d2f1ca389d2335da4968100f7123c930519a",
     "/natural-tts/main-es2015.c9cc0c2394d4ad5e8792.js": "f12d48d034e071ccd066b05806aabed37adea889",
     "/natural-tts/main-es5.c9cc0c2394d4ad5e8792.js": "b97797f1c7cbebe0cdcb7dceb71492333f9e0411",
     "/natural-tts/manifest.webmanifest": "72c881a5674f41140262ab771303ba77ab38b811",
     "/natural-tts/polyfills-es2015.ca64e4516afbb1b890d5.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
     "/natural-tts/polyfills-es5.fb4cff7f451982eaa677.js": "d5158605c08abe16a3992ccf4604bf8d2a934964",
-    "/natural-tts/runtime-es2015.991cadb82dfc1b857a7d.js": "fcbda29ca5fb25a8ac06247a20ab1e7372ba0404",
-    "/natural-tts/runtime-es5.991cadb82dfc1b857a7d.js": "46865a1c06c444fd37f4991a9e0861f1cdc8c807",
+    "/natural-tts/runtime-es2015.23d396609d6daea2e396.js": "c6ee643ce7613d00a47cd9a661c2f5ba8a4bfe29",
+    "/natural-tts/runtime-es5.23d396609d6daea2e396.js": "6d0f51e14a194235567ce11e91ce28d1eaba0b15",
     "/natural-tts/styles.13cedbb8a151032e5f50.css": "52a284b2d8e24edc28284af11a34be3b96e55fc7"
   },
   "navigationUrls": [
